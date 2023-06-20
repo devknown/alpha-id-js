@@ -6,7 +6,7 @@ class AlphaID {
   private static globalKey: string = '';
 
   /**
-   * Set the global key
+   * Set the global key 
    *
    * @param  {string} key
    */
