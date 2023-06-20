@@ -2,6 +2,12 @@
 
 AlphaID.js is a library that let you convert any integer to a short alphanumeric version. It can be useful for generating short, unique, and obfuscated identifiers.
 
+## AlphaID Library Versions
+
+- [PHP Version](https://github.com/devknown/alpha-id)
+- [JavaScript Version](https://github.com/devknown/alpha-id-js)
+- [Python Version](https://github.com/devknown/alpha-id-py)
+
 # Installation
 
 You can install AlphaID.js using npm:
