@@ -3,9 +3,9 @@
 <p align="center">
    <a href="https://github.com/devknown/alpha-id-js/releases">
    <img alt="Release" src="https://img.shields.io/github/v/release/devknown/alpha-id-js">
-   <a href="#">
+   <a href="https://github.com/devknown/alpha-id-js/actions/workflows/tests.yml">
    <img alt="Tests" src="https://github.com/devknown/alpha-id-js/actions/workflows/tests.yml/badge.svg">
-   <a href="#">
+   <a href="https://github.com/devknown/alpha-id-js/actions/workflows/build.yml">
    <img alt="Build" src="https://github.com/devknown/alpha-id-js/actions/workflows/build.yml/badge.svg">
    <a href="https://github.com/devknown/alpha-id-js/blob/main/LICENSE">
    <img alt="License" src="https://img.shields.io/github/license/devknown/alpha-id-js">
