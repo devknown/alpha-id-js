@@ -1,3 +1,18 @@
+<h4 align="center">AlphaID.js - Convert any integer to a short alphanumeric version</h4>
+
+<p align="center">
+   <a href="https://github.com/devknown/alpha-id-js/releases">
+   <img alt="Release" src="https://img.shields.io/github/v/release/devknown/alpha-id-js">
+   <a href="#">
+   <img alt="Tests" src="https://github.com/devknown/alpha-id-js/actions/workflows/tests.yml/badge.svg">
+   <a href="#">
+   <img alt="Build" src="https://github.com/devknown/alpha-id-js/actions/workflows/build.yml/badge.svg">
+   <a href="https://github.com/devknown/alpha-id-js/blob/main/LICENSE">
+   <img alt="License" src="https://img.shields.io/github/license/devknown/alpha-id-js">
+   <a href="https://www.npmjs.com/package/alpha-id-js">
+   <img alt="Downloads" src="https://img.shields.io/npm/dy/alpha-id-js">
+</p>
+
 # AlphaID.js
 
 AlphaID.js is a library that let you convert any integer to a short alphanumeric version. It can be useful for generating short, unique, and obfuscated identifiers.
