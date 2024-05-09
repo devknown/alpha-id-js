@@ -18,7 +18,7 @@
 AlphaID.js is a library that let you convert any integer to a short alphanumeric version. It can be useful for generating short, unique, and obfuscated identifiers.
 
 ## AlphaID Library Versions
-
+These versions should all function harmoniously, allowing for encoding in one language and decoding in another.
 - [PHP Version](https://github.com/devknown/alpha-id)
 - [JavaScript Version](https://github.com/devknown/alpha-id-js)
 - [Python Version](https://github.com/devknown/alpha-id-py)
